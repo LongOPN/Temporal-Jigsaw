@@ -1,0 +1,16 @@
+ffmpeg-python
+imageio
+matplotlib
+moviepy
+numpy
+pandas
+Pillow
+requests
+scikit-learn
+scikit-video
+scipy
+tensorboard
+tensorboardX
+torch
+torchvision
+tqdm
