@@ -8,7 +8,7 @@ Please run the provided colab demo.
 
 
 # Temporal Jigsaw:  Temporal relation in spatial domain 
-![image](https://github.com/LongOPN/LongOPN/blob/main/mynet.jpg)
+![image](https://github.com/LongOPN/Temporal-Jigsaw/blob/main/mynet.jpg)
 
  
  
